@@ -1,0 +1,33 @@
+/* element selector*/
+nav{
+    background-color: navy;
+}
+
+
+
+
+
+
+/*universal selector*/
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/*grouping selector*/
+p,ul{
+
+  color:brown;
+
+}
+
+/*class selector*/
+.section-style{
+    color:aqua;
+}
+
+
+/*id selector*/
+#about-section{
+    background-color: aquamarine;
+}
